@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Norzen
 ### I'm frontend developer
 ### html, css, js, ts, react, angular, flutter, dart
+### My telegram: t.me/verenev
 <!--
 **Norzen/Norzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
